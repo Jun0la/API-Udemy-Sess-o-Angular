@@ -68,5 +68,3 @@ public class EventoController : ControllerBase
         return $"Exemplo de Delete com id = {id}";
     }
 }
-
-
