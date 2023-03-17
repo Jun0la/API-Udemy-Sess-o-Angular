@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WtMXozWkN6ZQDj51H8uVoik26NwoJtCTuhP4v19ugSuFpk4mZzjBKADg8nr5qSENuqJb8+LDQctWsJhHw+ZSXA==",
+  "dgSpecHash": "GnKAvNsdTF1Y/iUBVRxWIw7bQtElnqwgJdqoGRSyvOy+St8ygrire5Y9DoWeRZs22pfsg/t4vNbM0TO1ffi+Xw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\UDEMY#\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\ju-sh\\OneDrive\\Área de Trabalho\\UDEMY#\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ju-sh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ju-sh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
